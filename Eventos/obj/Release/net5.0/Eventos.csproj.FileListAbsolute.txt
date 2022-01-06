@@ -1,0 +1,12 @@
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\bin\Release\net5.0\Eventos.deps.json
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\bin\Release\net5.0\Eventos.dll
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\bin\Release\net5.0\ref\Eventos.dll
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\bin\Release\net5.0\Eventos.pdb
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\obj\Release\net5.0\Eventos.csproj.AssemblyReference.cache
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\obj\Release\net5.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\obj\Release\net5.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\obj\Release\net5.0\Eventos.AssemblyInfo.cs
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\obj\Release\net5.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\obj\Release\net5.0\Eventos.dll
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\obj\Release\net5.0\ref\Eventos.dll
+C:\Users\L03036903\Documents\Documentacion\Definiendo-horizontes\desarrollo\definiendo-horizontes\Eventos\obj\Release\net5.0\Eventos.pdb

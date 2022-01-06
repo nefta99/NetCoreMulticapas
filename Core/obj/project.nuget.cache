@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTkRAGmi6PFr+gnTeB08OHjzLbq0gStKdI2gLG2Ha7Z5xfhosYqBtxColOtUAh9Ka71a9TZ3TiM/Mquy8PKe/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\L03036903\\Documents\\Documentacion\\Definiendo-horizontes\\desarrollo\\DefiniendoHorizontes\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\L03036903\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\L03036903\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.5\\microsoft.aspnetcore.http.features.5.0.5.nupkg.sha512",
+    "C:\\Users\\L03036903\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\L03036903\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\L03036903\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\L03036903\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\L03036903\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
